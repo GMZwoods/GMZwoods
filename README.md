@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GMZwoods
 - 👀 I’m interested in Sports activities, video games, Arts(Music, Visual Arts, Calligraphy), pharmaceuticals, Space/Astrology, Nature, Spirituality and many more !  
-- 🌱 I’m currently learning C#, JavaScript, HTML+Css, SQL
+- 🌱 I’m currently learning C#, JavaScript, HTML+CSS+SASS, SQL, Php and Blender
 - 💞️ I’m looking to collaborate on anything to help me grow my skillset and learn more about coding
 - 📫 How to reach me: via Github, LinkedIn or by mail (given on demand only)
 - 😄 Pronouns: He/Him 
